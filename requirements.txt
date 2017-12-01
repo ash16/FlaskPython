@@ -1,6 +1,6 @@
 Flask==0.12.1
 pandas
 sklearn
-scipy-0.19.1-cp34-cp34m-win32.whl
-numpy-1.13.0+mkl-cp34-cp34m-win32.whl
+scipy
+numpy
 gensim
