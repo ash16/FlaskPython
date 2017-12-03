@@ -1,11 +1,13 @@
 from flask import Flask, request
+import os
+import json
 app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
   return 'Hello, World!'
 
-@app.route('/skills', methods=['POST'])
+@app.route('/', methods=['POST'])
 def get_skills():
   input_text = request.data
   os.system('echo {0} | opennlp TokenNameFinder en-ner-skill.bin > outfile.txt'.format(input_text))
@@ -27,4 +29,4 @@ def get_skills():
   return json.dumps(tags)
 
 if __name__ == '__main__':
-  app.run()
+  app.run(debug=True)
