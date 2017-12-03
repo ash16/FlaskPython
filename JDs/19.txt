@@ -1,0 +1,26 @@
+The Universal Store team in WDG is developing some of Microsoft’s largest scale and business critical cloud services. These services have a huge global footprint of over 240 markets and process millions of transactions daily, with loads growing linearly as Microsoft moves to a “cloud first”, “mobile first” strategy. The platform powers all of Microsoft’s key services - Windows App Store, Windows Phone, XBOX, Bing Ads, Office 365, Azure to name just a few. Whether renting a movie or buying a game on Xbox LIVE, purchasing an app on a Windows or Windows Phone device, signing up for an Office 365 subscription or paying for Azure services, you are using the Universal Store platform.
+
+1. Be a great manager, mentor, and leader of the team and broader organization. You will manage a team of between 5 and 8 developers.
+2. Be a great process engineer. You will be accountable to the design, implementation, schedule, delivery, of your team’s services. Doing this in an efficient way is a must.
+3. Earn the technical respect of the people on your team. This is a technical position and the ideal candidate should be capable of working in the code, supporting the service, and understanding at a detailed level how the software works.
+4. Be the software architect: we will look to you to have an informed opinion about what and how the software should evolve and have the ability to land your plan in the division.
+
+Experience building scalable cloud services, distributed systems, and/or database systems would be a definite plus.
+
+• 10+ years demonstrated experience in designing and developing enterprise-level internet scale services/solutions.
+• Strong design and programming skills in C# or Java. 
+• Experience leading and influencing virtual teams of developers to deliver global, highly available, highly scalable services.
+• Understanding and experience in Machine Learning a plus.
+• Expert hands-on software development expertise including object oriented design skills, .NET etc.
+• Excellent analytical skills
+• Excellent communication skills, including the ability to write concise and accurate technical documentation, communicate technical ideas to non-technical audiences, and to lead development teams.
+• Demonstrated ability to impact/influence engineering and project teams 
+• Proven track record with industry level influence of shipping highly-scalable and reliable services/systems
+• Ability to work independently and in a team setting and be able to research innovative solutions for challenging business/technical problems
+• Solid technical aptitude and problem solving skills, take initiative, and must be result driven strong debugging skills
+• Expert understanding of Engineering Excellence processes and requirements
+• Expertise and knowledge in modern engineering practices (Continuous Integration, TDD, automated deployments with integrated quality gates)
+• Experience with Cloud Platforms like Windows Azure Platform, Amazon AWS, Google Apps
+• Experience with Big Data/Analytic Systems like Cosmos or Hadoop implementations
+• Experience in eCommerce and/or Supply Chain
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

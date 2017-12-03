@@ -1,0 +1,41 @@
+Microsoft IDC SO is for technology professionals who want to be strategic business partners and the first to create innovative solutions using Microsoft enterprise products and services. Microsoft IDC SO provides career growth opportunities, and a rewarding, flexible work environment so you can better integrate professional and personal life. Unlike other organizations, Microsoft IDC SO employees make global impact on millions of customers and tens of thousands of employees who use Microsoft software and services.
+
+Microsoft $17B devices business has grown from our first mouse in 1983 to include Xbox, Surface, Lumia, Band, PC peripherals and the groundbreaking HoloLens. Our devices deliver the experiences that empower people and organizations throughout the world to achieve more. Supply Chain Engineering exists to enable Microsoft supply chains to operate at world class levels, always. We develop and support the business services that light up internal and external capabilities from product development through planning and delivery of everything we sell at retail, both brick & mortar and online. We work closely with Microsoft groups and external supply chain providers, sharing services to deliver with expertise, great partnership and flawless quality.
+ 
+Are you looking for work in the most interesting business in Microsoft? Do you want to help deliver quality Line of Business applications on the latest Microsoft technologies to help the SUPPLY CHAIN BUSINESS SOLUTIONS, which manages the businesses of manufacturing and supply chain (MSC) for XBOX, KINECT, HOLOLENS and SURFACE in its mission to produce the world best entertainment systems? And are you a self-driven Software, Engineer who has a passion for delivering quality and are looking for a place where your abundance of ideas will be welcomed and supported? You may just have found your dream job. SUPPLY CHAIN ENGINEERING is a global Engineering team that delivers Line of Business applications to support rapid growth of our business. Currently there are 100+ applications in our portfolio and these include revenue systems, forecasting and planning, returns & refurbishment, sales, business intelligence and much more based on core Microsoft platforms including Azure, SQL, BizTalk, MS Dynamics AX and more. The application portfolio is largely based on Supply chain operations reference (SCOR) model comprising of 5 distinct management processes namely - Plan, Source, Make, Deliver and Return. Application portfolio also includes third party products like SAP R/3, APO etc. We engineer applications from the ground up specific to the requirements of the business, and we need people who are passionate about delivering a high-quality bar into production. 
+Are you looking to make a career move to increase your PM competencies? Do you have the technical chops to dig in deep into cloud, mobile and enterprise integration technologies and deliver mission critical IT Services? Are you interested in using your excellent communication skills to have a cross divisional impact? If you answered Yes� to these questions, then this role would be for you! You will be an integral member of a growing team that is accountable for building an Internet Scale Infrastructure in support of Microsoft establishing position as the global leader in Connected Entertainment
+ 
+Drive End 2 End delivery from gathering user requirements to delivering high quality programs and services to meet business needs
+Engage with customers to clarify requirements, work through agile experience and Create and communicate successful scenarios
+Risk management, identifying business and IT trends, challenges & opportunities, interfacing with Enterprise Architecture teams, developing an in-depth understanding of assigned products and the associated technologies and ensure that is maintained & extended to the team throughout the product cycle
+Build and leverage telemetry data to help drive prioritization decisions to deliver the best possible solution quickly.
+Partner with Solution Owners, Business stakeholders, Enterprise Architecture, Dev, Test, SE in analyzing requirements, analyzing impacts, proposing designs, fleshing these out to detailed designs, and finally driving the designs to completion through Feature Team.
+Virtual team leadership across PM, Dev, and Test
+Engage with business process units and work closely with upstream and downstream application owners to effectively build a â€˜trusted advisorâ€™ relationship with these teams through consistent on-time, on-budget delivery
+Coordinate deliverables and dependencies with other groups to hit project milestones
+Build cross-team coordination and a community with other engineers relating to challenges & opportunities in the areas of app to app and business to business integrations
+
+Experienced consultant with excellent communication skills, who has at least 2 to 3 OER Implementation cycle under his/her belt
+Expertise on configuring different EM attributes (System, Control, Info) and WebUI Reporting 
+Good knowledge of Integration between ECC and EM for logistic processes.
+Integration of events to SAP EM using IDOCS/BAPI
+7+ years of SAP configuration experience in SAP SD/MM/LE preferably in supply chain space 
+3+ years of SAP Event Management/OER configuration including Event Handler, Application Object Type and Event Messages
+Good understanding of Alert Management and rule management within EM 
+Consultant should be familiar with Supply chain and warehouse Scenarios.
+A minimum of a Bachelor's degree required with at least 10 years of experience in implementation / roll out projects in SAP EM/OER for large Supply chain customer.
+Sound knowledge of Supply Chain Management concepts
+Ability to collaborate with other functional teams
+Familiarity with formal Change Management and System Development Life Cycle processes
+Experience working with Application Development teams to define and execute requirements.
+Conduct Several Conference Room Pilots with Business
+Perform Gap Analysis (AS-IS vs TO-BE) to define new requirements
+Base line and detailed configuration of EM, OER
+Configure business scenario/requirements in SAP EM/OER.
+Complete understanding and technical knowledge of SAP EM/OER and how it can be used in various scenarios for achieving track and trace
+Experience in extraction of data from ECC to OER. Development and Customization in SAP EM and OER
+Work with (Middleware) resources to implement SAP EM/OER Interfaces pertaining to Packaging, Delivery from DC, Receiving in DC, Exception processes and reporting
+Document the Functional Specification, Technical Specification, Test cases, Presentations etc.
+Train the End User/Super Users/Business Knowledge of Validated Systems and SDLC
+ 
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

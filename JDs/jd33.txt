@@ -1,0 +1,17 @@
+Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their books/music/photos/video/any data from anywhere at any time via any means (e.g. mobile phones, tablets, PCs, smart devices, etc). Did you ever desire a universally accessible storage system to record all the knowledge known to mankind, to keep all the books/music/videos ever created, or to store all the data collected from all the scientists in the world for them to collaborate upon? Do you want to be part of a team that strives to bring these to reality? 
+
+If so, the Microsoft Azure Storage team is what you are looking for. We are building Microsoft’s cloud storage solution - Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. We continue to have tremendous hockey stick growth, we have many Exabyte’s of data stored, and are designing and building systems for Zettabyte scale to support demand growth for the coming years. 
+
+We are looking for engineers who are passionate about distributed storage and want to work on a fast-paced team with talented engineers. To be successful in this area you must thrive while solving challenges related to durability, availability, and concurrency while serving millions of requests per second. You will have an opportunity to make high impact changes on a daily basis as you build a hyperscale storage system that may indirectly or directly be used daily by your friends and family. 
+
+The specific role for this position is design and build features for a high-speed, low-latency storage system. 
+
+Qualifications: 
+• A passion for large scale storage 
+• Experience with multi-threaded/parallel programming in C/C++ 
+• Experience with network communications 
+• Experience with kernel development a plus 
+• Excellence in software engineering practices, coding and solid foundation in data structures, algorithms with strong testing, debugging and analytical skills 
+
+Requirements for the position are: 
+• 5 years of professional software development experience 

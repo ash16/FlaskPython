@@ -1,0 +1,34 @@
+Supply Chain Engineering designs, builds and runs Microsoftâ€™s global end-to-end consumer supply chain for high-tech devices and software services, including Xbox One, Xbox 360, Kinect, Surface, Band, HoloLens, Lumia and other forthcoming hardware products from Microsoft; serving hundreds of millions of customers throughout the world. Responsibilities encompass the full spectrum of sourcing, planning, manufacturing, and product localization, and distribution, repair and information technology functionsâ€” with the highest quality and compliance standards at every stage. The Manufacturing & Supply Chain IT team is chartered to Protect, Enable & Improve operational performance with the latest enterprise technologies fuelling capabilities and integrating the extended supply chain. The pace of innovation is intense as Microsoft moves towards a Mobile first, Cloud first visionâ€”serving up new business models, new fulfilment channels, new markets and exciting new products that help people and businesses throughout the world realize their full potential. This is a compelling opportunity to join a vigorous, rapidly-growing, successful organization that is committed to diversity and continuous improvement. We work hard and have fun!
+
+Supply Chain Engineering group is tasked with building enterprise level World Wide Supply Chain solutions that support the design, manufacture, distribution, sales, and customer support of Microsoft's consumer electronics, games, and applications. This position presents tremendous opportunity to make a contribution to the delivery of our next generation of consumer products. 
+
+Are you ready to be an integral part of a team that will help define and deliver global solutions for Microsoft consumer hardware products? Are you a passionate, motivated and self-directed individual ready to build strong relationships across the business, architecture, program management and engineering in order to deliver new and innovative business capabilities through IT solutions? Do you want to work on building Internet scale services that supports supply chain capabilities? Join the Manufacturing & Supply Chain IT engineering team as a Senior Software Engineer to drive services and engineering best practices to enable high quality internet scale services and user experiences that will collectively constitute the future of entertainment to millions of devices worldwide connected to the cloud and becoming a catalyst to drive solutions that matter. You will be an integral member of a growing team that is accountable for building an Internet Scale Infrastructure in support of Microsoft establishing position as the global leader in Connected Entertainment.
+Own, Design and deliver complex enterprise applications using Microsoft Technologies applying best practices and design principals in building high quality solutions.
+Collaborate with Technical Architects in the team to ensure application design is aligned to the Future State Architecture
+Convert complex design into solid implementations that scale and perform
+Ensure solution delivered adheres to the technological standards established in the organization
+Define/document Best Practices in the technical areas assigned to
+Designs and implement proof of concept as needed for solutions as an individual contributor
+Partner and influence stakeholders across business and engineering teams, embracing cross-boundary collaboration and driving win-win relationships and results
+Bring innovative approaches to the project functional areas that continuously improve our ability to deliver faster, better, and cheaper solution
+Demonstrate understanding of business requirements analysis and the ability to utilize technical skills/experience to improve business processes, system feature/functions, usability and performance
+Follow industry best practices for Agile development in a team environment
+Research and keep current on IT trends, technologies and system solutions
+Troubleshoot complex issues and provide mentorship and guidance to junior members on the team.
+Work closely with solution management, engineering and architecture teams to deliver high quality services
+
+• 9+ years of experience in system implementation, process analysis, and enterprise level services/systems.
+• Outstanding coding skills in C#/C++ and strong knowledge with OOPS concepts.
+• Strong working experience with in-depth expertise in delivering solutions based on ASP.Net, WCF, Web API, Windows Azure, C#
+• Strong working experience with Microsoft development tools and technologies (Visual Studio, .Net, C#).
+• Experience with REST, service oriented architecture and cloud services.
+• Experience with cloud services, distributed systems and web services.
+• Good working knowledge of SQL Server including TSQL programming and/or related database technologies.
+• Strong knowledge of data structures and algorithms
+• Proven experience driving big and complex projects to successful completion 
+• Familiar with Lean Scrum Ban or similar agile development/implementation methodologies, and cross-functional engineering practices/excellence. Expertise and knowledge in Agile engineering practices (Continuous Integration, TDD)
+•  Strong verbal communications and cross-group collaboration skills. Exceptional interpersonal skills, including teamwork, facilitation, and negotiation
+• Sound judgment, decision-making skills, and ability to work under continual deadline pressure
+• Demonstrable passion for continuous applied learning & development
+• Strong creative thinking and problem solving skills with the ability to deal with ambiguity without stalling progress
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

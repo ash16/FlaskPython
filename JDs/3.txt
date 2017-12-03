@@ -1,0 +1,23 @@
+Are you interested in leading an engineering team that has a passion for making our Azure better? Do you love taking on new technologies and being at the cutting edge of cloud computing? Do you want to drive key impact and value to Azure? Do you want a fun job that is deeply immersed in what customers do with Azure? 
+The Azure CAT team uses real-world customer-inspired projects to highlight gaps and trends in Azure. We replicate customers’ projects as internal services, which we operate and monitor, re-designed and re-implemented to stress Azure’s reliability and quality. We are an agile team, endeavoring to use industry best-practices with CI/CD, frequent releases, and a modern devops toolchain.
+We are looking for someone with empathy for our customers, strong technical skills and management skills, and a passion for delivering a quality experience to all Azure customers. The ideal candidates will be lead engineers that have experience shipping real world services today in Azure, AWS, or Google Cloud.
+•	Implement reference solutions based on real world customer scenarios
+•	Build telemetry & diagnostics solutions for monitoring scenarios and dependent services 
+•	Work with dependent service teams to drive actionable feedback (experiences, bugs, reliability)
+•	Identify key adoption and implementation blockers
+•	Quickly adapt and ramp on new services, applications, and languages (both Microsoft-created and open source) required for customer scenarios
+•	7+ years’ experience coding/development skills
+•	5+ years’ Management experience leading software engineering teams
+•	Knowledge of at least one modern programming language (C#, Java, Go, Python, JS, Ruby, C++) 
+•	Knowledge of popular programming frameworks (OSS and/or .NET)
+•	Linux system administration experience
+•	Experience with container technologies (Docker, Kubernetes)
+•	Experience developing, deploying, and managing distributed applications on popular cloud vendors’ platforms
+•	Contributor to open source projects 
+•	Experience leading complex software projects over multiple releases
+•	Execution skills (self-direction, drive for results, individual accountability)
+•	BS or higher degree in Computer Science or related discipline
+•	Ability to quickly ramp up on new service offerings and OSS components 
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

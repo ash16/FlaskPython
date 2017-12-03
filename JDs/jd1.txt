@@ -1,0 +1,42 @@
+Hiring Manager: kellymo
+Recruiter: sgood
+
+
+Sr. FastTrack Engineer
+
+Are you excited about working directly with Microsoft customers and partners to ensure success as they move forward with cloud computing? Do you want to be part of an engineering team that is looking to get a new service off the ground? If so, keep reading!
+
+We are the Azure Customer Experience (CXP) team- a fast growing Engineering team of customer obsessed & passionate individuals that drive positive customer outcomes and experiences. FastTrack (FT) for Azure is our newest initiative; a customer success service to help customers confidently onboard to Azure and getting them on the right track to “build it right, architect it right, the first time”. FT takes a solution-centric approach and provides customers with Engineering resources, best practices, tools and resources that drive Azure usage. 
+
+We are looking for thoughtful, analytical and high energy Azure FastTrack Engineers. These Engineers will form the core incubation team within FT and be instrumental for driving expansion of FT services across multiple Azure solutions. 
+
+
+Areas of responsibility include:
+• You will partner with various Azure Engineering subject matter experts to scope and build customer facing content, modules, tools and proof of concepts. 
+• Act as the subject matter expert across one or more core IaaS and PaaS Azure solutions like DR & Backup, SAP on Azure, RedHat, High Performance Computing, Predictive analytics apps, and IoT applications.
+• Directly engage with customers to validate new solutions and POC’s; update modules per learnings and feedback. 
+• Helping customers migrate and/or build workloads throughout their Azure journey toward production and expanding their cloud footprint. 
+• Staying current on latest Azure/Cloud innovations in order to conduct experiments, drive product improvement, and act as subject matter trainer for other engineers. 
+• Interact daily with other FastTrack Engineers to provide technical action plans or take ownership of situations that require escalation. 
+• Share knowledge with others through solution documents, engage technical communities, build automated self-help solutions and create training. 
+
+
+Successful Candidate Competencies: 
+o Familiarity with cloud deployment and development tools (ie. PowerShell, Visual Studio, .NET, Python) 
+o Familiarity with cloud networking concepts, connectivity (geo-redundancy, CDN, VPN) and tools
+o Customer and Partner Focus: proven experience driving business impact based on a deep understanding of customer and partner needs.
+o Strong communication skills to effectively drive recommendations and land priorities across customers, partners, senior executives and across organizational boundaries.
+o Dealing with ambiguity: must have the ability to take initiative and work in a fast-paced environment while balancing multiple demands and shifting priorities.
+o Collaboration: exceptional collaborator on complex multi-faceted programs
+o Linux/OSS experience a plus 
+
+
+Qualifications Recommended: 
+• 5+ of experience working with enterprise customers on Azure specific solutions, application development and deployment; 
+• Bachelor’s or Master’s degree in Computer Science/Engineering or equivalent work experience
+• The successful candidate will have the ability to communicate effectively with corporate customers, possess an understanding of the onboarding process and demonstrate a vision for the future of Microsoft support.
+• Candidate should also have excellent customer service skills, good oral and written communication skills, proven ability to handle difficult and sensitive situations involving the most critical and politically charged customer situations; to lead projects and to motivate others. 
+• Consulting and/or Delivery experience a plus
+
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com. 

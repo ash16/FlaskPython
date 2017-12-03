@@ -1,0 +1,39 @@
+Are you interested in working for one of the most exciting products in Microsoft, passionate about exceeding customer expectations and advancing Microsoft's cloud first strategy? Are you interested in a start-up like environment, passionate about cloud computing technology and driving growth in one of Microsoft's core businesses? If so, then look no further than the Azure Customer Experience (CXP), Customer Reliability Engineering Team! Microsoft Azure provides customers with on-demand and infinitely scalable infrastructure and platform for customers to build, host, and scale service applications on the Internet through Microsoft's global data centers.
+
+Azure CXP CRE is a top-level pillar of Azure Engineering that leads world-class customer reliability engagements, modern customer-first experiences for scale, and drives deep customer insights and empathy into the broader Azure Engineering organization. Our teams are listening to customers around the clock, driving improvements and capabilities into services, support programs, service incident experience, community engagements, and more. Our “no dead-end’s” philosophy ensures that every customer, regardless of size or scale, can realize their full potential through the Microsoft Cloud.
+
+Azure CXP is looking for a customer focused Service Engineer passionate about Customer reliability engineering (Availability, Reliability, site up) and supportability of the Azure platform at scale. This role will be accountable improving customer experience on Azure, for diagnosing and troubleshooting mission critical customer applications built on the Microsoft Azure platform. The successful candidate will be able to demonstrate breadth while managing complex, highly available services with a deep understanding of the underlying components (Azure Platform, Azure SDK, Azure Portal), and work directly with Customers, Customer Support, Livesite Teams, and Engineering. 
+
+Our team is looking for a Senior Service Engineer that will help evolve a world-class infrastructure that supports a growing number of CXP customer programs. You will deliver critical, customer facing features and work across many Azure servicing teams, ensuring they meet our customer’s needs. You will stay acutely aware of COGS at scale, building features efficiently and ensuring that our infrastructure and automation capabilities meet the needs of CXP program owners. In this role, you will partner with Program Management, Business, Field, Marketing, and Support teams. You will be surrounded by data scientists, elite developers, and colleagues that obsess over improving customer experience. 
+
+To be successful in this role, you must have a great track record of customer compassion, an engineering mindset , an innate aptitude for agility, and technical excellence in software engineering.
+
+
+Responsibilities: 
+• Collaborate closely with Engineering/PM to ensure the availability and performance of Live Site and the satisfaction of our customers
+• Participate in on call coverage rotation - Provide leadership to all customer facing teams during incidents
+• Improve Customer experience by analyzing signals from various sources, driving RCA's and Service improvements involving bug fixes
+• Drive continuous improvement in the Azure platform incorporating feedback from internal/external customers
+• Identify and drive requirements for increased customer self-supportability
+• Identify and drive implementation of customer centric mitigation levers and playbooks for Operations
+• Participate in the design of V. Next architecture for Cloud infrastructure services, focusing on strategic customer support scenarios
+• Enthusiastic, self-motivated, and a great teammate.
+• Excellent collaboration, organizational, time management skills.
+• Data driven with a focus on business results for projects undertaken.
+• Demonstrated ability to develop key partnerships.
+• Strong, demonstrable development and/or cloud services expertise in one or more of the following technologies is desirable:
+
+Required Skills:
+• Must have Service Engineering experience in a 24 x 7 x 365 enterprise environments
+• Desired Technical expertise on Azure services and capabilities and/or cloud platforms, understand 
+• Fluency in one or more automation languages (PowerShell, VB, VBScript, C#, etc.)
+• Communication skills that allow you to take lead and control the communication with customers, internal Microsoft stake holders and third party vendors.
+• Must have an Understanding of High Availability, Disaster Recovery, Business Continuity, Performance Tuning 
+• Demonstrates strategic thinking, quantitative and analytical skills, team leadership, and collaboration
+• Excellent problem resolution, judgment, negotiating and decision making skills
+• Desired Strong knowledge of Windows Platform or Linux, developer tools and ability to diagnose and debug user code
+• Must effectively manage and prioritize multiple tasks in accordance with high level objectives/projects.
+• Excellent written and oral communication skills required; Ability to communicate to a variety of audiences; including high-profile customers, executive management, and engineering teams.
+• Desired BS/BA in Computer Science, Engineering, Math or equivalent experience
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.

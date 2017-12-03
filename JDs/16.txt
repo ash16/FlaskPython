@@ -1,0 +1,19 @@
+The Digital India group seeks to empower the next billion, inspired by India. We are building intelligent cloud services and solutions in the area of agriculture, healthcare and education. This motivates us to come to work, support each other, and keep making our products better.
+We are looking for very strong engineers who is passionate about end to end engineering (design, implement, deploy and monitor), technical challenges and customer scenarios. Our engineering team will tackle a wide variety of problems. The candidates can expect to build a wide range of skills and experiences in this role. The candidates should have experience in all phases of the development cycle, preferably on large-scale commercial product / services including collaborating across the groups and cross discipline with Design, PM, and our partner teams.
+We are looking for a strong Software Engineer II whose responsibilities will include architecting, designing, developing and deploying software components on the cloud.
+-The ideal candidate is flexible, self-motivated and a great team player. She/he will possess strong cross-discipline and cross-team collaborative skills.
+-Design and develop mission critical, secure, highly available and scalable cloud based services and platforms.
+-Build next generation web services and mobile applications. Work closely with UX and UI, product management, and other teams to conceive, design, and create unique experiences.
+-Collect, parse, manage, visualize, store and analyze data at scale (aka 'big data') to turn information into insights using multiple platforms. Enable data driven decision for better customer insights. 
+- Contribute to AI driven Enterprise Products and ability to ramp up in the space
+-Build/adopt the right deployment and monitoring solutions for the services/platforms.
+
+-Excellent skills in design, debugging and problem solving.
+-Experience in software development skills with fluency in C# or C++/Java, or relevant programming languages.
+ -Experience with Agile methodologies.-Experience with AI, Machine Learning and Big Data are big pluses
+-Passion for customers, product quality and test engineering.
+-Demonstrated experience in shipping high-quality products or services.
+ -Familiarity with Azure, web services, multi-tiered client/server distributed applications and cross device, testing is preferred.
+ -4-8 years of industry experience working on commercial software applications or services.
+ -BS or MS in Computer Science or equivalent.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

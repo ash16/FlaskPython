@@ -1,0 +1,32 @@
+
+Join a team of successful Premier Field Engineers (PFE) in the Data Insights domain who are empowering customers to grow faster and perform better by freeing up the power of their data and making it accessible and useable. 
+
+In this role, you will build trusted advisor relationships and be the cornerstone for the optimization and successful implementation of Microsoft technologies with Microsoft’s Enterprise Customers.
+
+PFE provide technical guidance and leadership for Premier customers to help ensure their IT environments are kept optimized and healthy. The focus is to do this in a proactive and consultative manner in order to avoid future issues, regardless of challenging technical or political circumstances. This includes guidance on best practices, risk assessments, migrations, and onsite, remote and dedicated support services. 
+
+#Responsibilities
+
+As part of Microsoft Services, PFE partners with Support Engineering and Enterprise Services to strengthen the Microsoft Services Field Engineering capability worldwide. 
+
+Your challenges will include the following:
+• Delivering onsite, remote, and dedicated services for Microsoft’s Premier customers.
+• Efficiently delivering on various proactive services from the Premier Delivery Portfolio of Services to our Enterprise customers to increase systems availability, resolve critical issues, and ultimately improve the health of our customers’ environments. 
+• Consulting with experienced technical staff to ensure they have the skills to troubleshoot and maintain their solution in line with Microsoft best practices. 
+• Providing rapid on site expertise to resolve critical customer support situations. 
+• Contributing to innovation by creating solutions to solve challenges and realize opportunities.
+
+
+Overnight travel is required, potentially up to 30%.
+Australian citizenship is required for providing services to Australian government agencies and entities. 
+Security clearance would be beneficial but not essential.
+
+#Qualifications
+Would you like to:
+• Work in a supportive, flexible and collaborative environment with Microsoft’s top engineering talent? 
+• Build on your technical skills whilst working towards your own career goals and aspirations?
+• Work for the winner of “Hewitt’s 2012 Best of the Best Employer of Choice” award?
+
+We are looking for a Premier Field Engineer specialising in SQL, BI and analytics.
+
+As a Microsoft Premier Field Engineer, you will be required to have experience in both remote and on-site delivery of implementation and optimisation of services and have extensive knowledge and experience in implementing, operating, tuning and troubleshooting enterprise SQL server databases, BI and analytics solutions.

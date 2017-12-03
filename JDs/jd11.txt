@@ -1,0 +1,44 @@
+Senior Solution Architect 
+- Cross-Domain Senior Solution Architecture (CDSA)
+*Travel is an integral part of this role and may be 50% or more.
+**The position can be based in Australia, Singapore, South East Asia or Japan. Preference is for Singapore or Bangkok.
+
+Microsoft envisions a world where passionate innovators come to collaborate. A place where they can envision taking their careers to places they simply couldn't imagine anywhere else. This is a world of more possibility, more innovation, more openness, and sky's-the-limit thinking – a cloud-enabled world where we can help transform and allow our customers to disrupt themselves before someone else would. 
+
+Our mission is to empower every person and every organization on the planet to achieve more. This mission is ambitious and at the core of what our customers and employees care deeply about. We have unique capability in harmonizing the needs of both individuals and organizations. We deeply care about taking our ideals and vision global and making a difference in lives and organizations in all corners of the planet. 
+
+We are always learning. Insatiably curious. We lean into uncertainty, take risks, and learn quickly from our mistakes. We build on each other's ideas, because we are better together. We stand in awe of what humans dare to achieve and are motivated every day to empower others to do more and achieve more through our technology and innovation. Together we make a difference. 
+
+To learn more about Microsoft's mission, please visit: https://careers.microsoft.com/mission-culture
+
+At a time when most customers are looking for ways to innovate and disrupt themselves, Microsoft Enterprise Services Cross Domain Solution Architecture (CDSA) team in Asia is looking for a Senior Solution Architect that can help build magical solutions for our customers to help with their digital disruption and transformations. Asia CDSA team at Microsoft is responsible for architecting most innovative and complex solutions as well as building speculative solutions using emerging technologies with our customers as part of digital disruption and transformation strategy.
+
+#Responsibilities
+
+This Senior Architect role requires both broad and deep technology knowledge and the ability to architect solutions by mapping common customer business problems to end-to-end technology solutions. The candidate must have demonstrated ability to engage in senior level technology decision maker discussions related to agility, business value, and end to end information technology security is a must. CDSA Senior Architect is a key enabler for other architects, consultants and partners in our business. CDSA Senior Architect have a passion for the customer which is demonstrated through professionalism and striving for excellence in all aspects of the customer engagement and experience.
+
+The CDSA Senior Architect applies advanced analysis skills and experience in principals of architecture to define appropriate customer solutions. To be credible he or she must have current and deep experience with implementation of large software systems. Also, the CDSA Senior Architect should understand competitive technology and how to properly assess feasibility of migrating customer solutions from, and/or integrating with customer solutions hosted on, non-Microsoft platforms. Advanced domain knowledge in one or more vertical industry is also an asset. 
+
+Expert level knowledge required assisting customers in architecting, planning, testing and deploying solutions including the following:
+
+• Proven experience selling consulting engagements which includes estimating, scoping, and writing effective statements of work that clearly set expectations and limit risk.
+• Demonstrated excellence with consulting skills and presenting complex development topics to both business executive and technical personnel
+• Proven track record of building deep technical relationships with senior executives and helping to build innovative cloud solutions in large or highly strategic accounts
+• Proven track record of driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication
+• Demonstrated excellence when facilitating customer design and awareness sessions that are focused on complex application solution architectures.
+• Demonstrated capabilities in developing an understanding of the customer business value associated with the deployment of modern business productivity, system-to-system, and end-user applications.
+• An ability to articulate architectural differences between solution methods and the challenges and approaches to integrating solutions built on different platforms including a working knowledge of different architectural frameworks that may be used by our customers.
+• Architectural understanding of and implementation experience with the following solution architecture areas: Modern Applications, Business Productivity including but not limited to portal and browser-based workflow solutions, Application Architectures including the use of cloud-based technology capabilities such as Azure and SPO, Application Life Cycle Management and Application Platform processes and technology capabilities, Data and Database Management, SQL/BI, and application middle-ware and messaging architectures.
+• Ability to move between high level architectural review/design and the "roll up the sleeves" level of actually doing all phases of an application delivery project.
+• The CDSA Senior Architect helps customer account teams identify, pursue and close strategic business development opportunities while continually driving add-on business within existing projects. To accomplish this, they must be effective in fostering executive level relationships. They also play a key role in employing and developing partners as part of the overall Microsoft services delivery model. CDSA Senior Architect help translate business requirements into technology requirements for inclusion in contracts and/or statements of work (SOW).
+• The CDSA Senior Architect will be call upon to provide Technical Quality Assurance at various points along a project lifecycle. To be successful they must have proven experience managing projects through the entire project lifecycle. This includes managing multi-phase/multi-dimensional/multi-resource projects to conclusion while maintaining high customer satisfaction.
+• The role requires an individual who is resourceful, confident under pressure, and has demonstrated skill in both crisis management and expectation management.
+
+#Qualifications
+
+Ideal candidates may come from customer, partner and competing organizations and may have played the following types of roles in these organizations; Senior Architect, Chief Architect, Principal Architect or CTO.
+
+The successful candidate will have a BS/BA degree and/or 10+ years of relevant work experience. MBA or a relevant business degree is an added advantage for combining technical and business skills in this role. 
+
+
+At Microsoft, we believe that diversity enriches our performance and products, the communities where we live and work, and the lives of our employees. As our workforce evolves to reflect the growing diversity of our communities and the global marketplace, our efforts to understand, value, and incorporate differences become increasingly important. Come explore diversity at Microsoft! 

@@ -1,0 +1,23 @@
+Are you a great technical leader? Are you interested in leading a team to deliver product features that ship every week? Do you like working on technology problems that impact people on a global scale?
+Microsoft Teams is a new application in the Office365 family. We believe the modern workspace is underserved by the existing software solutions and we are building Microsoft Teams, the new, truly modern collaboration and productivity hub for the workspace. Microsoft Teams is also a platform for ISVs to build on and extend their applications into the 100M+ Office 365 user base. This v1 product will provide you with an opportunity to work with teams and on technologies across the company and beyond. If you want to work in a startup-like environment with the desire to move fast, this may be the team for you.
+The Microsoft Teams product group is expanding to India and will soon start a group at India Development Center in Bangalore. We are looking for exceptional technical leaders to build the foundation of this new team. If the above excites you, then Microsoft Teams would like to hear from you!
+We are looking for a seasoned Engineering Leader to lead development efforts in our backend infrastructure, platform, and ML efforts in support of the Teams product and platform. This is an opportunity to lead a fast-paced, high-impact foundational project with innovative technology. We are looking for a top performing principal engineering manager, who would like to work in a startup-like environment, building technology fast and with high quality. The ideal candidate has successful management experience and strong product design and development skills. You will be a key member of the leadership team: driving critical design initiatives, taking part in strategic and tactical decisions, being accountable for shipping a complete product that succeeds with our customers.
+
+You will be part of a very strong and fun team, building very large-scale data infrastructure. You will stay in touch with state-of-the-art big data technologies in both open source and Microsoft own stack, and develop advanced and practical data pipelining, mining, machine learning, statistics, and measurement techniques for solving some of the hottest technical problems.
+
+If you have a history of designing, owning and shipping software, as well as excellent communication and collaboration skills, then we want to talk to you. You should have a solid understanding of the software development cycle and have a passion for secure, reliable, scalable and maintainable code. Successful candidates should have ability to ramp up quickly on new technologies and adopt solution from within the company or from the Open Source community. In addition, strong problem solving & debugging skills are necessary.
+
+Bachelors or Master’s degree in Computer Science or a related field
+Exemplary design and problem-solving skills, with a proven track record of engineering excellence at scale
+Expert coding skills in C++, Java, or C#
+Ten+ years of software development experience shipping multiple projects.
+Five+ years of people management experience
+Proven track record as a top performer with significant direct technical contribution  
+Big data and analytics expertise
+Experience in large scale services in storage, search, data or related areas;
+Excellent written and verbal communication skills
+Curiosity and willingness to learn, share and improve
+ 
+Experience with Azure, Exchange, Office 365 services fabric or other large-scale services are a big plus.
+Extensive knowledge of large scale data store design and programming 
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

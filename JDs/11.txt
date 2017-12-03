@@ -1,0 +1,32 @@
+A Senior Service Engineer at Microsoft has the ability to read, evaluate, write code/script and partners with the Software Engineer for designing and maintaining a high quality of service. Service engineers have the ability to develop, deploy, improve service telemetry to understand and improve the end user experience. They lead live site reviews with software engineers and establish predictive analysis techniques to proactively avoid service disruption.
+Service engineers understand the services for which they are responsible and enable organization agility by delivering infrastructure and release automation
+We are looking for Service Engineers who have experience in running and designing enterprise scale services and resilient platforms, passionate about Live Site Health & reliability, technical depth in cloud platforms, agile development practices and experience in designing & tuning telemetry. This position requires strong collaboration and teamwork across team and organizational boundaries, playing a vital role in engineering services that delight the customer.
+
+Participate and contribute in design, architecture, and code reviews, develop strategies for design, and architect technical services, including end-to-end systems, networks, and platforms.
+Ability to read, write, configure/refactor code and design for end-to-end service telemetry, alerting and self-healing capabilities on point solutions. Scripting skills in PowerShell others.
+Proven capability in creation and adoption of Service Engineering Technology Patterns & Practices.
+Experience in automating provisioning (CI/CD), configuration and deployment using Microsoft Development Tools to accelerate the delivery process.
+Proven capability in developing and implementing tools & plugins to monitor performance, uptime, and availability metrics to help improve quality of services.
+Proven experience with automation frameworks, develops data driven test automation scripts and executes performance, load & endurance testing of application services.
+Participate & collaborate with software engineering teams to engineer resilient and scalable application & services.
+Ability to lead service teams through Live Site Reviews and corrective action plans.
+Experience in representing the Service for backlog discussions with the Software Engineering teams.
+Live site Focus - Uses data to assess service performance against expected KPIs. Drives visibility and ensures an appropriate response to impending/existing service issues. When issues arise, ensure they are dealt with effectively and learning from the incident is incorporated into engineering priorities and/or operational capabilities (tools, process, practices, etc.).
+Accountable for running the service and ensuring it is delivered per service agreements. Escalate major service decisions, improvements, issues and/or failures.
+Drive Compliance with Corporate IT and financial policies & guidelines, including (but not limited to) security, privacy, SOX, SDLC, offshore strategy and targets.
+Documenting and driving alignment on dependencies, success metrics, resource readiness, and operational, supportability, and manageability criteria; ensuring that the IT service is consistent with service-level requirements.
+Contribute to the service line strategy with responsibility for their aspect of the service portfolio. Audit service for performance and quality assurance
+End-to-end ownership. Clear about the business they support, the dependencies on others services/systems (network, environments, applications/services, etc.), outcomes expected, and how to measure. Establishes service KPIs that assess real time service quality prior to release and in production. Make sure the team is ready and able to support once moved into production (including documentation, KB articles, etc.).
+
+Sound problem resolution, judgment, negotiating and decision making skills.
+Demonstrated interest in customer advocacy derived from a holistic understanding of the product from the code level to delivery
+Creativity and innovation, Fast learner and Drive for results
+Methodical approach and attention to detail
+Familiarity & Experience in C#, ASP.NET, XML, HTML,T-SQL,REST,ODATA, JSON, PowerShell or Java or C++ with ability to code, automate scripts and Integrate monitoring platforms
+ 
+-Experience using telemetry to understand throughput, limitations and constraints in a service
+-Experience identifying services appropriate for hosting on PaaS and IaaS offerings, as well as migration to internal or external SaaS providers
+-Specialized knowledge of software & network components such as CDNs
+-Experience in Infrastructure and Configuration as code, as well as service auto-scale capabilities.
+ 
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status.

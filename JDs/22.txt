@@ -1,0 +1,34 @@
+Microsoft Supply Chain team is a part of Core Services Engineering and designs, builds and runs Microsoft global end-to-end consumer supply chain for high-tech devices and software services, including Xbox One, Xbox 360, Kinect, Surface, Band, HoloLens, Lumia and other forthcoming hardware products from Microsoft; serving hundreds of millions of customers throughout the world. Responsibilities encompass the full spectrum of sourcing, planning, manufacturing, and product localization, and distribution, repair and information technology functions with the highest quality and compliance standards at every stage. The Microsoft Supply Chain IT team is chartered to Protect, Enable & Improve operational performance with the latest enterprise technologies fuelling capabilities and integrating the extended supply chain. The pace of innovation is intense as Microsoft moves towards a Mobile first, Cloud first vision serving up new business models, new fulfilment channels, new markets and exciting new products that help people and businesses throughout the world realize their full potential. This is a compelling opportunity to join a vigorous, rapidly-growing, successful organization that is committed to diversity and continuous improvement. We work hard and have fun!
+
+Microsoft Supply Chain Engineering team is tasked with building enterprise level World Wide Supply Chain solutions that support the design, manufacture, distribution, sales, and customer support of Microsoft's consumer electronics, games, and applications. This position presents tremendous opportunity to make a contribution to the delivery of our next generation of consumer products. 
+
+Are you looking to make a career move to increase your PM competencies? Do you have the technical chops to dig in deep into cloud, mobile and enterprise integration technologies and deliver mission critical IT Services? Are you jazzed by the idea of integrating multiple MS technologies into highly customer focused solutions? Do you want to work on building Internet scale services that supports supply chain capabilities? Are you interested in using your excellent communication skills to have a cross divisional impact? If you answered “Yes” to these questions, then this role would be for you! You will be an integral member of a growing team that is accountable for building an Internet Scale Infrastructure in support of Microsoft establishing position as the global leader in Connected Entertainment. 
+ 
+Drive End 2 End delivery from gathering user requirements to delivering high quality programs and services to meet business needs
+Engage with customers to clarify requirements, work through agile experience and Create and communicate successful scenarios
+Risk management, identifying business and IT trends, challenges & opportunities, interfacing with Enterprise Architecture teams, developing an in-depth understanding of assigned products and the associated technologies and ensure that is maintained & extended to the team throughout the product cycle
+Build and leverage telemetry data to help drive prioritization decisions to deliver the best possible solution quickly.
+Partner with Solution Owners, Business stakeholders, Enterprise Architecture, Dev, Test, SE in analysing requirements, analysing impacts, proposing designs, fleshing these out to detailed designs, and finally driving the designs to completion through Feature Team.
+Virtual team leadership across PM, Dev, and Test
+Engage with business process units and work closely with upstream and downstream application owners to effectively build a  trusted advisor relationship with these teams through consistent on-time, on-budget delivery
+Coordinate deliverables and dependencies with other groups to hit project milestones
+Build cross-team coordination and a community with other engineers relating to challenges & opportunities in the areas of app to app and business to business integrations
+
+12+ years of IT/Product Engineering experience, 7 years of core software engineering experience, and 7+ years operating in a complex, multi-system environment or an online service space
+Exposure to EDI, BizTalk, Integration\B2B environment  
+Experience with shipping at least 2 full product releases, from release inception through live site support
+Excellent project management skills and extensive IT project management experience with complex projects, with a track record of successful launches on time and within budget
+Past programming experience in Microsoft technologies -or- programming/customization experience
+Excellent communication, client relationship skills, and customer experience focus
+Demonstrated passion for quality and attention to detail
+Effective time management in complex situations
+Excellent interpersonal skills to build positive working relationships across groups and all management levels
+Ability to effectively deal with ambiguous situations
+Ability to effectively communicate using multiple medias to present ideas
+Ability to impact and influence
+ 
+Hands-on working knowledge of SQL and Data Analysis
+.NET programming experience
+High degree of professionalism, especially when faced with critical and intense situations
+BA/BS degree in Computer Science, MIS, engineering or a related field; MBA preferred
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

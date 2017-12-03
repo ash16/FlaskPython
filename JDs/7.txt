@@ -1,0 +1,32 @@
+The Core Services Engineering group is leading the company’s Digital Transformation journey. We work across the entire company – building scalable, end-to-end cloud services for our future business needs.  Core Services Engineering (CSE) delivers the services, applications, and websites that every Microsoft employee uses in some part of their work – benefits, expenses, time & absence reporting, to name a few… as well as services that power business processes across Microsoft.  We are the first to use our own technology at enterprise scale. Our early adopter experiences, as well as best practices, offer an inside view of Microsoft, which helps inform our customers how to make our technology work for them.??
+ 
+Within CSE, Network Infrastructure Services (NIS) is the team that engineers, deploys and manages the internal Microsoft network infrastructure.  We aspire to deliver industry leading network solutions that address Microsoft business needs at a global scale. As an NIS engineer, you are responsible for the design, deployment, and operations of network devices including routers, switches, load balancers, and firewalls. The focus of this position is to support and troubleshoot incidents, and to deploy infrastructure solutions that provide the underpinning for client and server connectivity within the Microsoft network. This job includes interaction with multiple teams including product teams, infrastructure and security teams, and service/project management teams. Engineer is expected to adapt in a dynamic environment, work with tight timelines for project deployments, and work collaborative with teammates.
+ 
+·       Work with a team to develop enterprise wide routers, switch, load balancer, and firewall solutions
+·       Design and deploy solutions that scale to meet requirements and are easily supportable
+·       Perform network hardware and software performance, configuration, new release certification testing
+·       Assist with the definition and tracking of key performance metrics to meet availability requirements
+·       Develop, deploy, test, and support network automation using scripting languages such as Python, Bash
+·       Validate and revise key engineering artifacts such as standards and deployment guides
+·       Ensure network optimization, network health via monitoring, threshold and throughput capacity planning
+·       Monitor, support, troubleshoot network incidents to meet operation level agreements
+·       Perform DevOps role as the Direct Responsible Individual (DRI) for end-to-end service support. On-call rotation with team members providing high severity incident support as needed, 24x7.
+·       Proven track record of success demonstrating growth and expansion of responsibilities
+·       5+ years in design and delivery of complex enterprise network solutions
+·       A BS degree in Computer Science or equivalent work experience
+·       A minimum of 7 years in supporting, troubleshooting, and deploying large networks
+·       Strong background with routers, switches, firewalls, and load balancers
+·       Extensive experience in routing and switching protocols OSPF, BGP, IPV4 & V6, STP, MPLS in large enterprise class or service provider networks
+·       Experience in designing fault tolerant, highly available environments
+·       Experience in building engineering documents
+·       Scripting experience highly desired
+·       Programming experience a plus
+·       A BS degree in Computer Science or equivalent work experience
+·       CCIE – Data Center / CCNP / CCNA
+ 
+·       Strong leadership experience in delivering large scale network solutions
+·       Strong written and verbal communication skills
+·       Strong team player who enjoys a fast-paced atmosphere
+·       Ability to manage multiple priorities, commitments and projects
+·       Ability to influence, lead, and drive consensus on multiple technical views
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

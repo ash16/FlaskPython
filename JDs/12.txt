@@ -1,0 +1,32 @@
+Core Services Engineering builds and manages the critical products and services that Microsoft runs on. We boldly pursue big ideas that power transformational advances at Microsoft and for our customers, while helping Microsoft teams work smarter, faster and more securely every day. Core Services Engineering employees have deep technical and business expertise, customer insights, and a clear point of view that comes from first-hand, large-scale experience with Microsoft and industry solutions. We are engineers, technology leaders and experts, digital transformation change agents, and customer advocates.
+We have exciting opportunities for you to innovate, influence, transform, inspire and grow within our organization and we encourage you to apply to learn more!
+Want to help drive the future of end user productivity using innovative technologies? Want to work across a variety of product groups and business organizations to leverage the latest and greatest technology?
+ 
+End User Services Engineering (EUSE) delivers and runs services that create a highly productive work environment for all Microsoft employees. 
+We work across individual productivity, team productivity, and field/support work streams in areas such as: Modern devices, search solutions to help people find resources and collaborate with others, modern meeting experience for the Enterprise, Support solutions using Bots, line of business applications to meet field requirements, IoT-driven experiences to create Smart Buildings, and enterprise intelligence initiatives using AI, and more. We work across productivity and collaboration tools such as SharePoint, O365 and others that are extensively used in the Enterprise. We also ensure that Microsoft data in SharePoint is protected by applying various governance policies.
+EUSE is looking for an experienced Senior Software Engineer to drive key aspects of the cross-Microsoft enterprise services transformation. The ideal candidate will play a significant role working with other senior technical engineering PMs, Software Engineers, and Architects across Microsoft to identify opportunities, coordinate solutions (adjust priorities, define new features, co-design/develop, etc.), and accelerate delivery of key technology services and capabilities to improve and ensure the best end-to-end customer and employee experiences.
+ 
+Working collaboratively with top engineers across Microsoft to drive effective technical solutions
+Coordinating with Microsoft IT and PG leadership in project and strategy reviews
+Driving the company’s strategy and technical/data architecture for key technologies to achieve cross-company goals and alignment
+Architect, design, develop, and deliver high quality software that powers ever increasing demands of availability, reliability, security and performance of IT core tools.
+Stay on top of industry trends, standards from security and scalability perspective to Lead and influence design decisions to build services right ground up.
+Driving code and design reviews and take them closure
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+Successful candidate must have deep technical aptitude, great communication and cross-group skills, strong customer focus, a can-do attitude and the ability to jump in and get the job done in a fast-paced and stimulating environment.
+Should have a Computer Science or related degree; BS or MS degree in Computer Science or related engineering discipline.
+Familiarity with Microsoft .NET technologies (C# and the .NET Framework) and/or competitive offerings (e.g. J2EE, WebLogic or WebSphere). Candidates should have previous experience with multiple product release cycles.
+Customer obsession and ability partner with global teams in delivering world class support experience.
+5+ years of experience in building on web technologies and frameworks (JavaScript/TypeScript/HTML/CSS/AngularJS)
+Experience with ASP.NET, MVC, or WCF/Web API is a mandatory.
+Experience with some of the following: Cognitive Services, Micro services is a plus.
+8+ years software development experience in full product cycle: design, development, release and maintenance. Experience should entail some or all of the below:
+A strong understanding of Microsoft SharePoint (2010/2013/2016/Office 365), Microsoft's cloud computing technologies, IIS (certificates, hosting web sites, setup, topography)
+Deployment experience with SharePoint and Office 365 workloads
+Experience with SharePoint hybrid architectures (combined on-premises and cloud deployment)
+Experience with SharePoint Add-ins and the Cloud App Model
+Experience with custom workflows, Business Intelligence dashboards, Site collections, Sub sites, Master Pages, Lists, Custom Lists, SharePoint Designer, InfoPath, Web Parts
+5+ years of experience delivering scalable and resilient services at large enterprise scale.
+Good at design patterns and their application.
+2+ years of experience in data platforms including large-scale analytics on relational, structured and unstructured data

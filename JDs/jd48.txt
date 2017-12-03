@@ -1,0 +1,78 @@
+
+Australian citizenship is required, and Australian Government Security clearance will be favoured.
+Join a team of successful Premier Field Engineers (PFE) in the Data Insights domain who are empowering customers to grow faster and perform better by freeing up the power of their data and making it accessible and useable. 
+In this role, you will build trusted advisor relationships and be the cornerstone for the optimization and successful implementation of Microsoft technologies with Microsoft’s Enterprise Customers.
+PFE provide technical guidance and leadership for Premier customers to help ensure their IT environments are kept optimized and healthy. The focus is to do this in a proactive and consultative manner in order to avoid future issues, regardless of challenging technical or political circumstances. This includes guidance on best practices, risk assessments, migrations, and onsite, remote and dedicated support services. 
+As part of Microsoft Services, PFE partners with Support Engineering and Enterprise Services to strengthen the Microsoft Services Field Engineering capability worldwide. 
+Your challenges will include the following:
+• Delivering onsite, remote, and dedicated services for Microsoft’s Premier customers.
+• Efficiently delivering on various proactive services from the Premier Delivery Portfolio of Services to our Enterprise customers to increase systems availability, resolve critical issues, and ultimately improve the health of our customers’ environments. 
+• Consulting with experienced technical staff to ensure they have the skills to troubleshoot and maintain their solution in line with Microsoft best practices. 
+• Providing rapid on site expertise to resolve critical customer support situations. 
+• Contributing to innovation by creating solutions to solve challenges and realize opportunities.
+• Overnight travel is required, potentially up to 20%.
+
+Job Technology Requirements
+Would you like to:
+• Work in a supportive, flexible and collaborative environment with Microsoft’s top engineering talent? 
+• Build on your technical skills whilst working towards your own career goals and aspirations?
+• Work for the winner of “Hewitt’s 2012 Best of the Best Employer of Choice” award?
+
+We are looking for a Premier Field Engineer specialising in SQL, BI and analytics to work primarily as a dedicated support engineer for the Department of Defence. 
+As a Microsoft Premier Field Engineer, you will be required to have experience in both remote and on-site delivery of implementation and optimisation of services and have extensive knowledge and experience in implementing, operating, tuning and troubleshooting enterprise SQL server databases, BI and analytics solutions.
+You will have immaculate presentation and communication skills, as Data Insights Premier Field Engineer will typically be engaging with not only IT Operational Staff, but also with IT Managers, Directors and CxOs. This role also works closely with Microsoft’s Premier Technical Account Managers, Services Executives, Consultants and Account Directors. Therefore, the confidence to engage at all levels is essential.
+
+The Core role requires depth knowledge in a number of the following technologies / areas:
+• Experience working in a secure Australian Government customer environment
+• Database administration (SQL Server 2016 and below)
+• BI and analytics tuning and administration 
+• Performance Tuning and optimization
+• High Availability, Disaster Recovery and supporting architectures
+• Scalability features and supporting architectures
+• Strong troubleshooting skills and experience
+The following areas may also be beneficial:
+• Reporting Services
+• Integration Services
+• Analysis Services
+• Cloud Services including Azure, PowerBI, Machine Learning, Stream Analytics and Cortana Analytics 
+• Background in Business Intelligence and Data Warehouse architectures.
+
+#Responsibilities
+
+Primary Job Functions
+Business Results: Delivery
+• Participated in proactive account management, planning and strategy for targeted accounts to circumvent roadblocks to solutions.
+• Used experience and knowledge along with communication from internal groups to spot trends in performance issues and take appropriate action. 
+• Demonstrated deep technical expertise in at least one Microsoft technology (Directory Services, Database, Messaging and Collaboration, Development, Management, Security, Solutions).
+• Handled difficult cases, involving broad & complex technical skills for one or more technical specialties and demonstrated the ability to identify & escalate non-routine bugs. 
+Business Result: Innovation
+• Created deliverables by leveraging expertise and experience to address common Premier customer needs and promote customer health.
+• Targeted proactive Services to customers to ensure remediation plans/action plans are followed.
+• Harvested and shared intellectual property (IP) generated from all other engagements enhancing the Service Catalogue.
+Business Result: Operational Precision
+• Implemented and facilitated business driven change, promoting organizational agility.
+• Accountable for contributing to delivery metrics.
+• Participated as a Virtual Team Member with the EPG and Account Team partners to develop the Services Delivery Plan and Forecasting.
+• Demonstrated expected communication skills for Technical Writing, Presentation, and Responsiveness to customers
+Business Result: Training and Technical Readiness
+• Maintained and expanded certifications related to specialization, allocations, and technical depth and breadth as measured by the individual to ensure appropriate certifications/accreditations for customer issue/engagement.
+• Assisted in development of solutions and best practices for key technologies and products to support technical team readiness. 
+• Maintained role fundamentals while consuming all applicable training (technical, professional & required) within the fiscal year
+Leadership
+• Consistently applied “lessons learned” to current decisions, resulting in improved decision skills. 
+• Used a mixture of analysis, business acumen, experience and judgment to make high level decisions when necessary.
+• Discussed his/her most important values and beliefs, modeled desired behavior and participated in delivery of proactive account management, planning and strategy for targeted accounts.
+Customer / Partner
+• Participated in virtual account team business planning activity by informing the account team of relevant developments with the customer, ensuring activities align (where appropriate) with virtual account team strategy.
+• Provided feedback to internal technical specialty groups and representatives on behalf of their assigned customer(s) to ensure that MS Products contain enhanced supportability, interoperability and improved quality. (Such as Bug, Hot fix, CDCR/DCR) 
+Integration
+• Contributes and participates with in-person or virtual team meetings to articulate PFE offerings to internal and external customers.
+
+
+#Qualifications
+
+3-5 years of related experience
+Bachelor’s Degree / Associate’s Degree
+Education: Field of Study (if applicable) : Computer Science, Engineering (or related)
+Professional Training and Certification : Certifications highly regarded
+Knowledge, Skills, and Abilities : Confidence, Cross-Boundary Collaboration, Impact and Influence, Interpersonal Awareness, Technical Expertise, Building Customer/Partner Relationships, Value Selling, Analytical Problem Solving, Strategic Insight, Project Management.

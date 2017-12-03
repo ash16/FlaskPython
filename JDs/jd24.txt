@@ -1,0 +1,44 @@
+Microsoft envisions a world where passionate innovators come to collaborate, envisioning what can be and taking their careers places they simply couldn’t anywhere else. This is a world of more possibility, more innovation, more openness, and sky’s-the-limit thinking – a cloud enabled world. 
+
+Our mission is to empower every person and every organization on the planet to achieve more. This mission is ambitious and at the core of what our customers and employees care deeply about. We have unique capability in harmonizing the needs of both individuals and organizations. We deeply care about taking our ideals and vision global and making a difference in lives and organizations in all corners of the planet. 
+
+We are always learning. Insatiably curious. We lean into uncertainty, take risks, and learn quickly from our mistakes. We build on each other’s ideas, because we are better together. We stand in awe of what humans dare to achieve and are motivated every day to empower others to do more and achieve more through our technology and innovation. Together we make a difference. 
+
+Are you ready to join the team that is at the leading edge of Innovation at Microsoft? Azure is the most innovative cloud platform in computing today and Microsoft is hiring Global Black Belt Technology Solutions Professional (GBB TSP) Big Compute. 
+
+The GBB TSP is a technical sales professional within our enterprise sales organization with a special focus on application and infrastructure advanced workloads. A Global Black Belt Azure Infrastructure TSP contributes to revenue and market share growth by leading technical engagements to win solutions leveraging the Microsoft Infrastructure offerings with a specialization in Big Compute.
+
+To learn more about Microsoft’s mission, please visit: https://careers.microsoft.com/mission-culture 
+Check out all our products at: http://www.microsoft.com/en-us
+
+
+#Requirements 
+
+Primary accountabilities for this role include:
+• 50% You will be the key technical leader and influencer in shaping customer decisions to buy, architect and adopt Microsoft Big Compute solutions. Being a member of the sales opportunity team, you will give technical presentations, demonstrations, help execute proof of concepts, design and implement solutions leveraging P-Sellers, partners, ISVs and MCS as needed. You will directly support the market share and revenue growth of Microsoft Big Compute platform through your technical leadership in designing and implementing mission critical solutions for our customers. 
+• 30% You will be the thought leader in Big Compute space. You lead by participating in internal Microsoft technical communities and in the broader industry events and publishing blogs, whitepapers, reference architecture etc in your area of expertise
+• 20% You will influence the Microsoft Big Compute platform go to market strategies by providing feedback to sales, marketing, and engineering on current and future product requirements and sales blockers you encounter.
+
+#Qualifications
+
+Experiences Required: Education, Key Experiences, Skills and Knowledge:
+Professional
+• Experienced. 10+ years of related experience in technical pre-sales and/or technical consulting roles required
+• Excellent Communicator. Strong negotiation, organizational, presentation, product demo, written, and verbal communication skills required
+• Executive Presence. Proven experience engaging with senior level executives preferred
+• Performer. Highly driven person who consistently exceeds goals and expectations required
+• Collaborative. Able to work cohesively with members of the Microsoft sales & services field, Microsoft partners, and Microsoft corporate sales, engineering, and marketing required
+Technical 
+• Infrastructure architect. Broad knowledge of and ability to explain key end-user scenarios and technical architecture in the Cloud Infrastructure space with experience in hybrid cloud infrastructure and management required
+• Domain-specific subject matter expert. Deep technical knowledge of implementation scenarios for Big Compute to apply that to customer advanced workloads including Big Compute applications from key ISVs (i.e. ANSYS, OpenFOAM, Schlumberger) in Linux and Windows, and key technologies: clustering, RDMA, InfiniBand; and to provide meaningful technical feedback to engineering groups required 
+• Big Compute Knowledge. Familiarity with the following: HPC Pack, Azure Batch R, Matlab, F#, PowerShell, Python preferred 
+• Technical proficiency to quickly learn new and emerging technologies required 
+• Cloud Trust. Demonstrated knowledge of security, privacy, and compliance and how they factor into cloud and hybrid solutions preferred
+• Planning for success. Understand cloud deployment and adoption planning
+• Technical breadth. Enterprise-scale experience with cloud and hybrid infrastructures, architecture designs, migrations and management of technology required
+Education
+• Bachelor’s Degree in Computer Science, Information Technology, or related field required
+• Certifications in domain-specific (HPC and Linux/OSS) technologies preferred
+
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

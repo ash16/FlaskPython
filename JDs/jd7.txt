@@ -1,0 +1,43 @@
+Do you have a passion for building solutions that solve the most challenging customer scenarios, translating these solutions into measurable engineering impact and product improvement? Do you enjoy working with some of Microsoft’s largest customers and partners handling the most complex security and compliance requirements? Do you have a record of accomplishment employing strong business and architectural skills, navigating difficult engineering problems, orchestrating the envisioning and delivery of innovative solutions that generate and accelerate business value? Are you a change agent and leader capable of driving change and adoption across a broad base of teams, groups, customers, and communities? Do you want to open new markets and lead the emergence of intelligence in the cloud. If so, this role might be ideal for you. 
+
+The Azure Ecosystem Engineering team is seeking a Senior Program Manager with a passion for customers and partners, the talent to handle big, complex engineering challenges and the drive to guide success of the Microsoft Azure cloud platform in Australia and New Zealand. Our team focuses on the biggest challenges and barriers to adoption of Microsoft Azure, we systematically identify enablers of innovation and we work to ensure that every customer, with every type of system or sensitivity of data can drive their digital transformation on the Microsoft Azure platform. 
+
+#Responsibilities:
+This technical role will join the Australian Azure Ecosystem team to be focused on: 
+
+• Engaging with Microsoft’s most important partners and customers on market-level solution architectures and blueprints that are designed, built, and deployed successfully on Azure 
+• Enabling organisations in government and regulated sectors to realise the true benefit of IaaS, PaaS, and SaaS architectures on Azure for mission critical workloads 
+• Drive engineering relationships alongside field-based engineering resources, customers and partners to fully understand and learn from the customer experience end-to-end on the Azure platform 
+• Providing architectural guidance for Azure solutions through interaction with technical audiences 
+• Designing and reviewing Azure architectural solutions including: 
+o On premises to cloud migrations 
+o Hybrid data centre architectures 
+o Secure, multi-layered virtual cloud infrastructure 
+o Mission critical legacy application migrations
+• Creating and communicating knowledge of: 
+o Information security compliance and assurance processes for Australia & New Zealand government and regulated sectors 
+o Cybersecurity controls and frameworks for deployment of secure enclaves, gateways and restricted administration environments.
+o Broad knowledge of cloud infrastructure and networking
+o Mission-critical legacy platform modernisation 
+o Working with Microsoft Azure engineering product and field engineering teams as well as field account teams to understand requirements, design, and review solutions, and deploy these into Pilots, Proof of Concept, and Production environments. 
+
+As Microsoft continues to expand global infrastructure to serve the needs of Australia and New Zealand, you will help to accelerate our strategic customer's adoption of the Microsoft Azure platform. You’ll do that by bringing your deep technical experiences, your program and project management ability, your stakeholder management skills and your technical expertise. You will contribute directly into the engineering product teams, helping to ensure Azure is well aligned with the most compelling workloads and scenarios from each sector. As a Senior PM your primary responsibility is to work within defined sectors with a select set of customers and partners to guide initiatives for differentiation and rapid adoption.
+
+#Qualifications
+The ideal candidate will have:
+• experience in customer facing roles as well as engagement with engineering and product development teams; and
+• success leading discussions with senior customer and partner executives; and 
+• the ability to think and operate broadly, driving key decisions and implementation; and
+• strength in identifying and translating abstract customer scenarios and workloads into concrete product refinements; and
+• strong credibility to engage on cybersecurity threats, risks and countermeasures; and 
+• presentation experience, public speaking skills and strong communication abilities; and 
+• a growth mindset with a desire to experiment, learn and adapt to challenging situations
+• team management experience. Although this role is an individual within a team, you will need to assemble, guide and lead ad-hoc project teams
+
+Desired technical skills for this role include: 
+• Ability to architect and implement cloud security controls, especially within Microsoft Azure and/or Amazon Web Services 
+• Ability to perform threat and risk assessment, interpret and communicate compliance controls and multiple layers of a cloud platform 
+• Solid solution architecture and development skills—you will need to be able to deliver deep technical content and at the same time bridge that technical knowledge with mature, business discussions 
+• Be familiar with ARM Templates, Powershell scripts, C#/JS/Python, architectural design patterns, and agile methodologies 
+
+Success in this role depends on collaboration with generalists and specialists in Microsoft engineering as well as the Microsoft field and delivery teams (including partners, services, and business development). This role will be based in Canberra, Australia. Moderate travel will be required (20-30%). 

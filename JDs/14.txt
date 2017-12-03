@@ -1,0 +1,52 @@
+Each day our world creates new technology. New devices, new apps, new services. These imply new ways to do things, new ways to connect, new things to learn. And while each holds the promise of helping us get more done, with less effort, too often they simply become one more thing competing for our scarce time and attention. That’s why we need to rethink the way we make technology, and not simply make more. That’s why we need to reinvent productivity. Microsoft is helping people achieve more by giving them the best possible tools for any moment.  
+
+Microsoft Core Services Engineering (CSE) provides career growth opportunities, a rewarding and flexible work environment so you can better integrate your professional and personal life. Microsoft IT employees make global impact on hundreds of thousands of customers and employees who use Microsoft software and services. 
+
+In the Enterprise Application & Services (EAS) team, as a Software engineer you will be personally involved in Designing, Configuring & Testing the business requirements & features that enable our mission critical business processes. You will work closely with peers across teams (inside IT and across the company) to help build flexible and high-performing SAP Solutions that enable next generation of business services. This is a data-driven and fast paced environment - where software engineers are empowered to innovate and take ideas from conception to scale. It is a great opportunity to work on something highly strategic to Microsoft!
+Software engineer (Functional Analyst) is accountable for solution design, working with other EAS team members, businesses partners, product groups, and IT teams to ensure that ERP solutions are delivered aligned to the technology roadmaps which support the business roadmaps and future business scenarios.
+
+The SAP Software engineer must quickly establish the trust and confidence of our business partners by developing:
+Deep understanding of System landscape & Business process knowledge
+Support the business lines by addressing the pain points and leveraging the opportunities to improve systems and processes
+Develop strong collaborative relationships with key Business users to deliver reliable, supportable business solutions
+Demonstrate ability to learn and adopt relevant new technologies, tools, methods and processes from Microsoft and industry.
+Provide problem-solving, technical innovation, and attention to detail.
+ 
+The SAP Software engineer (Functional Analyst)must possess detailed working knowledge of Standard ERP and Best in Class for respective module and surrounding process areas. Independently drive for results and consistently meet deliverables on projects with aggressive timelines.  Work with a diverse team of Solution designer, Dev, Test and Support resources and consultants across multiple disciplines.
+ 
+The Microsoft implementation of SAP is a large-scale enterprise solution featuring SAP ECC (FI/CO, SD and HR modules), SAP SCM (APO, SNP, EM, DP, EM), GTS, PS, BODS & BW This is an exciting opportunity for candidates that are motivated to grow their careers in SAP and Microsoft technologies. The individuals hired for the positions will implement SAP system
+solutions across various modules
+
+Participate in the requirements gathering, guide discussions by representing standard SAP functionality and how these can be leveraged more.
+Deliver required functionality according to Microsoft standards, align with roadmaps for key strategic initiatives.
+Detail design of the E2E solution -Utilize reference architecture in project design work.
+Enhance the project capabilities by continuous improvements & innovation; develop strong partnership with business and other groups globally
+Understand and improve processes/interfaces with SAP’s upstream and downstream applications.
+Support Domain Architects in the definition of solution and technology roadmaps and industry standards
+Develop strong collaborative relationships with key Business users to deliver reliable, supportable business solutions
+Practice and adhere to Modern engineering practices, Live Site reviews
+ 
+BS/BE in Computer Science, Engineering or Business
+5+ Years of experience in IT as a SAP Functional Analyst, Solution architect or SME
+Hands on experience in customization/configuration of any one of the SAP modules
+SAP Finance and Controlling (General Ledger, Accounts Receivable, Accounts Payable, Bank Integration, Fixed Assets, Overhead Cost controlling, Product Costing, Profitability Analysis)
+S/4 HANA
+SAP Project Systems
+SAP Sales and Distribution
+SAP Supply Chain
+SAP HR/Success Factors
+Experience in working on large scale global enterprise implementations
+Strong understanding of end to end business processes in respective areas
+A strong understanding of Software life cycle methodology and Information’s systems development and support
+Must be able to participate in a team environment and communicate effectively
+Strong problem solving, troubleshooting skills along with sound judgement and decision-making skills
+Strong verbal and written communication skills
+Experience working with geographically diverse groups 
+
+Professional Training and Certification in respective SAP modules
+Experience in implementing CPM (Commercial Project Management)
+Implemented Simple Finance with S/4 HANA.
+Excellent ability to succeed in ambiguous environment.
+Relationship management at leadership level
+Experience with a variety of SDLC methodologies such as: Waterfall, RUP, SCRUM or other agile methodologies 
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

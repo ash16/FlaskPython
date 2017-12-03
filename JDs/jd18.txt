@@ -1,0 +1,30 @@
+Are you ready to help driving the WW cloud transformation at Microsoft for Business Applications in general and CRMOL in particular? Are you looking to join a team that is passionate about providing a Perfect Every Time experience to customers and partners in the next wave of online service growth at Microsoft?
+
+Microsoft Dynamics CRM is our customer relationship management (CRM) solution that enables companies to market smarter, sell effectively and productively, and care everywhere. We provide social insights, business intelligence, and productivity with One Microsoft solutions. And we deliver Microsoft Dynamics CRM in the cloud, on-premises, or with a hybrid combination.
+
+Microsoft Dynamics CRM was launched in the Asia Pacific and Greater China region in 2004 and has grown significantly in these markets. The Dynamics CRM support team provides mission-critical support to Microsoft customers and partners to help them run their CRM solution to keep their business up and running.
+
+As a Microsoft Dynamics CRM Support Escalation Engineer you will be responsible for resolving partner and customer issues in a timely and adequate manner through electronic support, phone support, advisory services and emergency on-site support. You will be working on supporting customers and partners from the entire region, with a strong focus on Australia and New Zealand.
+
+You are expected to be technically skilled in a range of Microsoft products, and you will have ample opportunity to further your skill-set through relevant training opportunities locally and world-wide. You should have strong customer service skills, preferably gained through experience as a support professional for an internally facing helpdesk or in a customer facing technical role. You should have proven knowledge of and experience in managing and maintaining Microsoft technologies such as SQL Server, Exchange Server, Internet Information Server and/or Windows Server beyond your regular end-user type experience. Knowledge of Dynamics CRM or equivalent CRM applications is optional. 
+
+#Responsibilities
+Job Responsibilities:
+• Accept and appropriately resolve customer issues ensuring resolution in a timely manner and in accordance with the Microsoft Terms & Conditions and contractual agreements.
+• Demonstrate strong communication skills ensuring that verbal and written responses are relevant, complete and easily understood when communicating with internal team members, partners and customers.
+• Use sound judgment in the management, escalation and resolution of support cases.
+• Maintain high level of domain and technical skill in Microsoft CRM.
+• Meet SLA’s in accordance with our regional targets.
+
+
+#Qualifications
+Job Requirements: 
+• Qualifications
+• Bachelor degree in Computing Science or an IT-related field
+• Microsoft certification preferred (MCSE, MCDBA, MCSD)
+• Field knowledge in Dynamics CRM or other CRM system is desirable
+• Exhibit analysis, problem resolution, judgment and decision making skill s in order to assist customer with their technical issue.
+• Demonstrate strong customer service attributes.
+• Proven experience managing and maintaining one or more Microsoft server technologies, such as SQL Server, Exchange Server, IIS, Windows Server, etc.
+• Past experience of Support Professional in IT field or IT Technical Consultant is preferable.
+• Are fluent in English

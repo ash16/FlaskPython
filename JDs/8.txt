@@ -1,0 +1,17 @@
+Are you a great software engineer interested in creating brand new productivity experiences for enterprise workgroups? Do you like working on technology problems that impact people on a global scale? Are you interested in creating groundbreaking user experiences in Microsoft Office 365? 
+Microsoft Teams is a new application in the Office365 family. We believe the modern workspace is underserved by the existing software solutions and we are building Microsoft Teams, the new, truly modern collaboration and productivity hub for the workspace. Microsoft Teams is also a platform for ISVs to build on and extend their applications into the Office 365 user base. This v1 product will provide you with an opportunity to create new capabilities and user experiences that will reach potentially 100M+ users through a range of devices and form factors.
+The Microsoft Teams product group is starting a brand new world-class engineering team at India Development Center in Bangalore. This position is for Microsoft Teams mobile clients, where we are leading innovation in team collaboration and productivity experiences. You will have an opportunity to work on modern mobile UX frameworks with teams and technologies across the company.
+We are looking for a strong software engineer to work on Microsoft Teams mobile applications and UX framework. You would have passion for software, strong product design and development skills and industry experience in building and delivering mobile applications. This is an opportunity to be part of a fast-paced, high-impact project and being accountable to deliver modern experiences to our customers. If you are interested in working on iOS and want to work in a startup-like environment on a team, which is moving fast at making working together fun, do apply.
+Ability to ramp up quickly on new technologies and adopt solution from within the company or from the Open Source community.
+Strong problem solving & debugging skills
+Software development and testing experience on iOS
+Strong attention to detail. Passion for pixel-perfection and apps craftsmanship
+3+ years of industry design/development experience
+Knowledge of / experience with unit testing, mocking and dependency injection frameworks
+Knowledge of / experience with application design patterns (MVC/MVVM, etc.)
+Ability to solve hard technical problems practically
+Experience in building on web technologies and frameworks
+Bachelors or Masters degree in Computer Science or a related field
+Ability to work on cross team/org projects
+Prior experience with DevOps environments.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.  We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.  If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

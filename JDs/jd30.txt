@@ -1,0 +1,19 @@
+#Overview
+The Enterprise Management and Mobility (EMM) team at Microsoft is on a mission: we empower IT to confidently deliver secure, borderless productivity that people love. To accomplish this mission, the Customer Acceleration Team (CAT) within EMM engages deeply with our top strategic enterprise customers to help them architect and deploy our Microsoft 365 enterprise management solutions. CAT is looking for a customer-focused individual to work directly with these customers. This individual will understand our customers’ requirements and deliver solutions that not only satisfy their needs but exceed their expectations. 
+
+#Responsibilities
+This customer-focused individual will have three areas of responsibility:
+• Architecture & Deployment: Collaborate with key stakeholders to identify the customer’s architectural and deployment requirements and then drive, facilitate and guide the actual solution deployment (including Windows 10 Modern Management, Intune and System Center Configuration Manager deployments), and to otherwise act as a strategic technical deployment advisor to the customer.
+• Product Development: Working with the rest of the Intune, Configuration Manager and Windows engineering teams, use your knowledge and expertise in enterprise deployments to help guide the future direction of our products and services.
+• Training: Use your subject matter expertise in enterprise deployments to train the larger deployment ecosystem. 
+
+#Qualifications
+Successful candidates will demonstrate these skills and qualifications:
+• Passion for enabling great customer experiences
+• Experience in deploying, testing and/or designing Windows 10 Modern Management, Intune and/or System Center Configuration Manager solutions and related technologies
+• Experience working with enterprise customers on difficult, technical issues and developing innovative, creative solutions
+• Knowledge of the MDM (Mobile Device Management) and MAM (Mobile Application Management) spaces, including Windows, iOS, Mac and Android management
+• Highly self-driven with an ability to work very independently
+• An ability to work well within fast-paced, ambiguous situations where you need to define the problem, goal, solution and see it through to the end
+• Ability to crisply and effectively communicate at all levels of an organization, from senior executives on down, and across all functions, from business to technical
+• Location near a major airport and a willingness to travel to and work on-site at customer locations (as the position does require approximately 30% travel)

@@ -1,0 +1,34 @@
+Innovate. Boldly lead. Impact millions. The Core Services Engineering group is leading the company’s Digital Transformation journey. We work across the entire company - building scalable, end-to-end cloud services for our future business needs. Core Services Engineering (CSE) delivers the services, applications, and websites that every Microsoft employee uses in some part of their work - benefits, expenses, time & absence reporting, to name a few? as well as services that power business processes across Microsoft. We are the first to use our own technology at enterprise scale. Our early adopter experiences, as well as best practices, offer an inside view of Microsoft, which helps inform our customers how to make our technology work for them.
+Success during this next business revolution lies undeniably within leadership, talent, and culture to make it happen. Ready for this era? Come work on a team where you know your skills will be leveraged to the fullest and some more, where you work in a diverse team with opportunities to grow and have impact across all the latest Microsoft services & technologies. 
+Within CSE, Network Infrastructure Services (NIS) is the team that engineers, deploys, and manages the internal Microsoft network infrastructure. We aspire to deliver industry leading network solutions that address Microsoft business needs at a global scale. The NIS Network Business as Usual (BAU) team design, installation, configuration, test and production turnover of network infrastructure in different service lines of Network Infrastructure like Wireless, Routing & Switching, LAN, WAN, Firewall etc.. This role requires collaboration with various groups in NIS (i.e., architecture, engineering, operations etc.,) spread across regions to deliver the services and technology solutions.
+
+We are looking for a passionate Senior Engineering Leader who will drive definition, design, implementation, configuration and maintaining the production standards of Network Infrastructure components.  This role will lead BAU team of subject Matter Experts in different functions of NIS (Wireless, Routing & Switching, Core WAN engineering etc) to deliver next-generation experiences that demonstrate customer obsession and industry leadership. The work will involves defining strategy, designing platforms, and processes across the Network services.
+
+A successful candidate will have: 
+• Success in people management to lead, attract, and grow talent 
+• Ability to think strategically and align efforts to strategy 
+• 10 years of industry experience developing and implementing enterprise scale Network services & platforms
+• Strong hands on experience on Different network technology and vendors (Cisco, Aruba, PaloAlto, Fortinet) to design, installation, configuration, test and production turnover
+• Demonstrated ability to understand, represent, and support technical Network engineering work to design, test, deploy, troubleshoot, and debug issues. 
+• Ability to work with senior business partners and influence strategic decisions 
+• Ability to guide engineering leads and influence design, implementation, and support via Agile practices 
+• Strong communication and collaboration skills 
+• Demonstrated understanding of system or service lifecycle, and delivering solutions through development methodologies such as Waterfall and Agile 
+• Demonstrated experience working with large scale, architecture systems or services
+• BS/BA in Business, Computer Science, or related field, or 4 years' experience in engineering.
+ 
+• Proven track record of success demonstrating leadership and technical growth 10+ years of experience developing enterprise network solutions 
+• A BS degree in Computer Science or equivalent work experience 
+• Experience in routing and switching protocols in large enterprise class or service provider networks.          
+• Experience in wireless technopops across different vendors Cisco and Aruba.
+• Experience in designing fault tolerant, highly available environments 
+• Experience in developing and delivering business cases to decision makers 
+
+• Strong leadership experience in delivering large scale network solutions 
+• Strong written and verbal communication skills 
+• Strong team player who enjoys a mix of autonomy and collaboration based delivery 
+• Ability to manage multiple priorities, commitments and projects 
+• Ability to influence, lead, and drive consensus on multiple technical views Self-motivated, directed and passionate 
+• Comfortable with public speaking to internal and external (customers or partners) groups                             • Cisco Certified Network Professional (CCNP) or higher
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

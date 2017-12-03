@@ -1,0 +1,22 @@
+Are you a great Software Engineer? Are you interested in working on a product that ships new features every week? Do you like working on technology problems that impact people on a global scale?
+
+Microsoft Teams is a new application in the Office365 family. We believe the modern workspace is underserved by the existing software solutions and we are building Microsoft Teams, the new, truly modern collaboration and productivity hub for the workspace. Microsoft Teams is also a platform for ISVs to build on and extend their applications into the 100M+ Office 365 user base. This v1 product will provide you with an opportunity to work with teams and on technologies across the company and beyond. If you want to work in a startup-like environment with the desire to move fast, this may be the team for you. The Microsoft Teams product group is expanding to India and will soon start a group at India Development Center in Bangalore. If the above excites you, then Microsoft Teams would like to hear from you!
+
+The Microsoft Teams product group is expanding to India and will soon start a group at India Development Center in Bangalore. If the above excites you, then Microsoft Teams would like to hear from you!
+We write software from the ground-up, running across millions of clients and thousands of servers. We are currently building a new user experiences that can build on the Office 365 data platform, utilize insights from enterprise data at scale to aid, and respond to user actions within milliseconds E2E latency. To design the new system, alongside innovations in user experience designs, we are also applying a combination of approaches from the fields of web API design, Machine Learning, Distributed Computing, and many more. Come to define, design and deliver the excellent enterprise hub application we are building. 
+
+Successful candidates should have ability to ramp up quickly on new technologies and adopt solution from within the company or from the Open Source community. In addition, strong problem solving & debugging skills are necessary.
+
+Bachelors or Master’s degree in Computer Science or a related field
+Exemplary design and problem-solving skills
+Expert coding skills in C++, Java, or C# and 3+ years of industry design/development experience
+Experience in building on web technologies and frameworks (JavaScript/TypeScript/HTML/CSS/AngularJS/Electron)
+Experience in designing and developing applications on at least one mobile platform (Android, iOS, Windows Phone)
+Ability to learn and grasps concepts quickly in a fast paced environment
+Curiosity and willingness to learn, share and improve
+ 
+Extensive knowledge of database/storage design and programming
+Experience with Azure, Exchange, Office 365 services fabric or other large-scale services are a big plus.
+You will be part of a very strong and fun team and will build very large scale data infrastructure while staying touch on the state-of-the-art big data technologies in both open source and Microsoft own stack. You will develop advanced and practical data pipelining, mining, machine learning, and measurement techniques for solving the hottest technical problems.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. 
+If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

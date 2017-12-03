@@ -1,0 +1,20 @@
+Are you interested in radically improving the security of Microsoft’s products? Do you want to work on cutting edge malware analysis systems? Are you committed to helping Microsoft customers keep their computers secure and combating evolving malware threats? We are searching for a strong self-driven Security Researcher for Windows Security Research Team. Windows Security Research team is a global team of antimalware researchers, advanced threat hunters, and agile malware responders at the forefront of protecting Windows and the Microsoft ecosystem from emerging malware threats such as ransomware. We power protection in products like Windows Defender, Windows Defender Advanced Threat Protection, System Center Endpoint Protection, Office 365, Azure, and more. We are an industry leading threat research lab that responds to customer issues with malware and use cutting edge antimalware techniques to help keep our customers safe. If you are a technically strong antimalware researcher who is passionate about having huge impact in the security industry, we would love to talk to you! 
+
+#Responsibilities
+The main responsibilities include but not limited to: 
+• Conduct research and lead research collaborations that yield new insights, theories, analyses, data, algorithms and prototypes and that advance state-of-the-art of malware protection 
+• Lead efforts to build and use automation, machine learning and the cloud to scale-out impact 
+• Work with other internal and external teams to forge new and improve existing partnerships that help mature the product 
+• Provide exemplary leadership in an exceptionally challenging and rewarding environment and influence the organization 
+• Collaborate with researchers, coordinators and developers to improve the protection capabilities of the products 
+• Make good, timely and practical decisions with moderate uncertainty or pressure on a consistent basis 
+• Determine most effective method of problem resolution with internal research team and engineering team input 
+
+#Qualifications
+Key skills and qualifications: 
+• BS in Computer Science or Computer Engineering, or at least 5+ years of comparable industry experience 
+• Strong research skills, data knowledge, and ability to analyze and present complex data visually in a meaningful way 
+• Strong technical and thought leader with skills in various scripting tools and/or C# programming. 
+• Good communication skills and an eye for detail. Able to perform well under stress, particularly in emergency response situations. 
+• Strong understanding of operating system and computer networking concepts. 
+• 3+ years of experience in managing complex programs with a strong understanding of customer needs and knowledge of security landscape

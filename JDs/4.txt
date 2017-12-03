@@ -1,0 +1,21 @@
+Turn 10 Studios, the developer behind the critically acclaimed Forza franchise (Forza Motorsport, Forza Horizon), is looking for a rock star Software Design Engineer to define and develop our tooling for Live Ops.
+This person will have to be comfortable managing relationships and feature priorities across many teams within and external to the studio, working with our services team, game team, community team, esports team and external partners to craft and design the interface and workflows critical to the studio’s goals of delivering an ongoing engaging experience for our customers.
+As this is a new position within Turn 10, this is an excellent opportunity to grow and set the course for us in this exciting new space.
+Candidates must have strong computer science fundamentals, along with an ability to turn complex workflows into simple patterns. Excellent communication skills across disciplines are vital.
+-	Bachelor of Science in Math/Computer Science and/or 7+ years of professional software development experience
+
+-	Excellent knowledge of C++ or C#, preferably both 
+-	Rock solid understanding of software engineering best practices
+-	Experience communicating complex designs and coordinating cross-team implementation
+-	Strong communication and cross-team development skills
+-	People or technical leadership experience
+-	Passion for games and a drive to create amazing AAA game Experiences
+-	Experience with calling or implementing web services (ASP.NET MVC/Web API)
+-	Experience with variety of front end development (HTML5, React, XAML/WPF)
+-	Experience with Content Management Systems
+-	Experience with displaying business intelligence data
+-	Experience building complex frameworks and infrastructure
+-	Experience with source control systems (Source Depot, Perforce, Git)
+-	Experience with build tools (MSBuild, NAnt, etc.)
+-	Experience with continuous integration build systems (TeamCity, BuildTracker, Jenkins, etc.)
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
